@@ -1,20 +1,25 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    titleWeb: "Happy Birthday Người em gái hay ra dẻ",
+    introTitle: 'Đinh Thị Hạnh, Nhím, Điêu',
+    introDesc: `Hôm nay đến sinh nhật em,
+    Chúc em hương sắc càng thêm đậm đà,
+    Mắt em hơn dải Ngân Hà,
+    Giọng càng thánh thót vui ca sớm chiều,
+	Chúc em sớm có người yêu,
+	Đời càng hạnh phúc như triều đang dâng,
+	Anh xin chúc đến nghìn lần,
+	Những lời hoa mĩ tuyệt trần cho em.
+					< Anh duy bé bỏng>`,
+    btnIntro: '^^Happy birthday em^^',
+    title: 'Anh không biết hôm nay sinh nhật em không, nhưng hi vọng là đúng :))',
+    desc: 'Tuổi mới bớt báo a lại nghe em :v',
+    btnYes: 'Em sẽ bớt báo lại, chén đũa mai mốt a cứ để em lo.',
+    btnNo: 'Em biết mà lỗi em, lỗi em hết, em không nên lên tầng 4 ở rồi biết anh, em sai mà thôi mai mốt em báo mình em được rồi.',
+    btnReply: 'Gửi a Duy',
+    reply: 'Ai tên Duy,người nào sao cũng dễ thương hết trời.',
+    mess: 'Anh biết mà.',
+    messDesc: 'UKM HỨM',
+    btnAccept: 'Haha',
+    messLink: 'https://i.pinimg.com/originals/81/c6/ad/81c6ad75d3bece41e424f01e52b9b479.jpg' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
+
